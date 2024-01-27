@@ -1,2 +1,3 @@
 # embedded_systems
-Collection of code for Raspberry Pi Pico embedded systems projects
+
+This repository contains code for various embedded systems projects developed using Raspberry Pi Pico.
